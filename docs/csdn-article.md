@@ -1,8 +1,66 @@
+# CSDN 发布稿：香水/护肤品商品图 AI 提示词
+
+## 发布设置
+
+标题：
+
+```text
+我整理了 18 个香水/护肤品商品图 AI 提示词：白底图、玻璃瓶、场景图都能直接改
+```
+
+摘要：
+
+```text
+整理 18 个可直接复制的香水商品图 AI 提示词和护肤品商品图 Prompt，覆盖白底主图、透明玻璃瓶、高级棚拍、香调成分图、礼盒详情页、小红书封面、独立站 Hero 和 Seedance ASMR 视频。适合电商运营、美妆品牌、设计师和独立站卖家按产品替换变量直接使用。
+```
+
+标签：
+
+```text
+AI提示词, Prompt, AI商品图, 电商主图, 香水商品图, 护肤品, AI绘画, 商品摄影
+```
+
+分类建议：
+
+```text
+人工智能 / AIGC / Prompt Engineering
+```
+
+封面图：
+
+```text
+https://raw.githubusercontent.com/aithink001/ai-perfume-product-photography-prompts/main/assets/images/perfume-product-photography-og-1783494825388.png
+```
+
+建议 URL slug：
+
+```text
+ai-perfume-product-photography-prompts
+```
+
+主关键词：
+
+```text
+香水商品图 AI 提示词
+```
+
+辅助关键词：
+
+```text
+护肤品商品图 Prompt、美妆电商图 AI 提示词、香水瓶产品摄影提示词、AI 商品图提示词
+```
+
+## 正文
+
 # 我整理了 18 个香水/护肤品商品图 AI 提示词：白底图、玻璃瓶、场景图都能直接改
 
-很多人用 AI 做商品图时，会习惯写“高级感香水商品图，8K，商业摄影，电影感”。这种写法通常能生成一张看起来不错的图，但很难真正用于电商或品牌素材。
+**香水商品图 AI 提示词** 和 **护肤品商品图 Prompt** 很容易写成“高级感、8K、商业摄影、电影感”这种泛泛描述。它能生成一张看起来不错的图，但经常不能真正用于电商主图、详情页、小红书封面或独立站 Hero。
 
-商品图不是氛围图。它最重要的是产品是否准确、瓶身是否完整、标签是否清楚、光线是否能表现材质。
+商品图不是氛围图。它最重要的是产品是否准确、瓶身是否完整、标签是否清楚、光线是否能表现材质。尤其是香水瓶、精华瓶、喷雾瓶这类透明或半透明产品，提示词如果不够具体，很容易出现玻璃瓶变形、标签乱码、瓶盖错误、道具抢主体的问题。
+
+![香水商品图 AI 提示词封面：玻璃香水瓶、玫瑰花瓣、高级产品摄影](https://raw.githubusercontent.com/aithink001/ai-perfume-product-photography-prompts/main/assets/images/perfume-product-photography-og-1783494825388.png)
+
+我把香水和护肤品商品图拆成 18 个具体场景，每个模板都可以直接复制，再把方括号里的变量替换成自己的产品。
 
 完整 GitHub 资源库：
 
@@ -16,16 +74,7 @@ SEO 图文页面：
 https://aithink001.github.io/ai-perfume-product-photography-prompts/
 ```
 
-配图可以用这几张：
-
-```text
-https://raw.githubusercontent.com/aithink001/ai-perfume-product-photography-prompts/main/assets/images/perfume-product-photography-og-1783494825388.png
-https://raw.githubusercontent.com/aithink001/ai-perfume-product-photography-prompts/main/assets/images/ai-perfume-white-background-product-image-1783494862288.png
-https://raw.githubusercontent.com/aithink001/ai-perfume-product-photography-prompts/main/assets/images/ai-skincare-serum-bottle-product-photography-1783495435288.png
-https://raw.githubusercontent.com/aithink001/ai-perfume-product-photography-prompts/main/assets/images/ai-perfume-gift-box-product-image-1783495444129.png
-```
-
-在线查看更多 AI 图片和视频提示词：
+更多 AI 图片和视频提示词案例：
 
 ```text
 https://lemgen.org
@@ -33,47 +82,188 @@ https://lemgen.org
 
 ## 为什么香水和护肤品商品图容易翻车
 
-- 玻璃瓶变形；
-- 标签变成乱码；
-- 花瓣、水珠、冰块抢走主体；
-- 瓶盖和喷头细节不对；
-- 背景太复杂，无法上架；
-- 看起来像漂亮渲染图，但不像真实商品摄影。
+香水、精华、喷雾和美妆瓶类商品图，比普通商品图更依赖材质和光线控制。常见问题包括：
 
-## 通用公式
+- 玻璃瓶变形，瓶身比例不稳定；
+- 标签文字变成乱码，或者生成不存在的品牌；
+- 花瓣、水珠、冰块、水果等道具抢走主体；
+- 瓶盖、喷头、滴管和包装盒细节不对；
+- 背景太复杂，不适合电商主图；
+- 图像看起来像渲染图，但不像真实商品摄影。
+
+所以不要只写“高级感香水图”。更好的写法是把产品类型、瓶身材质、使用场景、台面背景、光线、构图和负向约束都写清楚。
+
+## 香水商品图 AI 提示词的通用公式
 
 ```text
 [产品类型] + [瓶身和材质] + [使用场景] + [台面/背景] + [光线] + [构图] + [必须保持的细节] + [不要出现的问题]
 ```
 
-## 可复制模板
+示例：
 
-### 香水白底电商主图
+```text
+香水瓶 + 透明玻璃和银色瓶盖 + 夏日柑橘调广告 + 浅蓝背景和冰块台面 + 冷调背光和边缘光 + 4:5 居中构图 + 标签朝前、瓶身完整 + 不要乱码文字和变形瓶盖
+```
+
+如果你有真实产品图，建议上传参考图，并在提示词里加一句：
+
+```text
+保持参考图中的瓶身比例、标签文字、Logo 位置和瓶盖形状不变。
+```
+
+## 图片示例：AI 香水商品图可以覆盖哪些场景
+
+下面这些图对应不同的商品图需求：白底主图、护肤精华瓶、礼盒详情页、小红书封面、香调成分图、独立站 Hero、冰感清凉广告图。
+
+![AI 香水白底商品图提示词示例：透明玻璃香水瓶，适合电商主图](https://raw.githubusercontent.com/aithink001/ai-perfume-product-photography-prompts/main/assets/images/ai-perfume-white-background-product-image-1783494862288.png)
+
+![AI 护肤精华瓶商品摄影提示词示例：透明玻璃滴管瓶，高级棚拍](https://raw.githubusercontent.com/aithink001/ai-perfume-product-photography-prompts/main/assets/images/ai-skincare-serum-bottle-product-photography-1783495435288.png)
+
+![AI 香水礼盒商品图提示词示例：香水瓶和包装盒，适合详情页](https://raw.githubusercontent.com/aithink001/ai-perfume-product-photography-prompts/main/assets/images/ai-perfume-gift-box-product-image-1783495444129.png)
+
+![小红书香水商品图封面提示词示例：玫瑰香水、梳妆台、种草封面](https://raw.githubusercontent.com/aithink001/ai-perfume-product-photography-prompts/main/assets/images/xiaohongshu-perfume-product-cover-prompt-1783495488658.png)
+
+![AI 香水成分平铺图提示词示例：柑橘、玫瑰、香草、檀木香调](https://raw.githubusercontent.com/aithink001/ai-perfume-product-photography-prompts/main/assets/images/ai-perfume-ingredient-flatlay-prompt-1783495536569.png)
+
+![AI 香水独立站 Hero 商品图提示词示例：右侧产品，左侧留白](https://raw.githubusercontent.com/aithink001/ai-perfume-product-photography-prompts/main/assets/images/ai-perfume-website-hero-product-photo-1783495579738.png)
+
+![AI 冰感清凉香水商品图提示词示例：冰块、水珠、冷调光线](https://raw.githubusercontent.com/aithink001/ai-perfume-product-photography-prompts/main/assets/images/ai-icy-cooling-perfume-product-photo-1783495624271.png)
+
+## 1. 香水白底电商主图 Prompt
+
+适合：淘宝、天猫、Shopify、Amazon 商品列表图。
 
 ```text
 生成一张 1:1 香水白底商品主图，主体是[香水名称/瓶型]，瓶身居中完整可见，瓶盖、喷头、标签和玻璃边缘清楚。背景为纯白或浅灰无缝棚拍背景，台面干净，产品下方有自然接触阴影。使用柔和大面积主光和轻微边缘光，突出玻璃反光和液体通透感。产品占画面约 70%，不要添加道具、文字、水印或随机品牌 logo。
 ```
 
-### 透明玻璃瓶高级棚拍
+这个模板的重点是“完整可见、标签清楚、接触阴影自然”。如果用于电商主图，不建议加入太多花瓣、冰块或水果。
+
+## 2. 透明玻璃瓶高级棚拍 Prompt
+
+适合：香水详情页、官网产品页、品牌视觉。
 
 ```text
 生成一张透明玻璃香水瓶高级棚拍图，主体是[瓶型描述]，瓶内液体颜色为[液体颜色]，瓶盖为[材质/颜色]。产品放在[大理石/亚克力/金属]台面上，背景为[浅米色/浅灰/雾蓝]渐变。使用背光、柔和反射板和细窄边缘光，让玻璃轮廓清楚、液体有真实折射。保持标签朝前可读，瓶身不变形，整体干净、克制、奢华。
 ```
 
-### 护肤喷雾清透水感图
+透明玻璃瓶一定要写背光和边缘光，否则瓶身容易发灰，或者变成塑料质感。
+
+## 3. 护肤喷雾清透水感 Prompt
+
+适合：保湿喷雾、定妆喷雾、爽肤水、夏季清爽卖点。
 
 ```text
 生成一张 3:4 护肤喷雾产品摄影图，主体是[喷雾瓶名称]，瓶身表面有细密水珠，放在浅蓝或白色瓷砖台面上。周围只有少量水滴、透明气泡和干净毛巾作为辅助道具。光线为清晨冷调自然光，从左上方进入，瓶身边缘清楚，台面有轻微反射。画面传达清爽、保湿、干净，不要出现人物、杂乱浴室用品或随机文字。
 ```
 
-### 香水 ASMR 视频提示词
+这类护肤品商品图 Prompt 的关键词是“清透、水感、干净、少量道具”。不要把浴室元素堆得太满。
+
+## 4. 香水花香成分围绕图 Prompt
+
+适合：玫瑰、茉莉、橙花、鸢尾等香调表达。
+
+```text
+生成一张 4:5 香水花香成分广告图，主体是[香水瓶]，放在浅色石材台面中央，周围自然摆放[玫瑰花瓣/茉莉花/橙花/鸢尾花]，花材数量克制，不遮挡瓶身。使用温暖侧光和柔和阴影，玻璃瓶有真实反射，花瓣质感细腻。背景干净，有高级杂志广告感，顶部或侧边留出文案空间。不要让花材过多、颜色过饱和或标签变形。
+```
+
+香调成分图适合做详情页和香评文章配图，但要注意花材数量，不能盖住瓶身。
+
+## 5. 香水礼盒详情页 Prompt
+
+适合：礼盒、套装、节日送礼、详情页模块。
+
+```text
+生成一张香水礼盒套装产品图，展示[香水瓶]和[外包装盒/礼袋/小样]，香水瓶在前，包装盒在后，层次清楚。背景为浅灰棚拍环境，台面为哑光石材，光线柔和，标签和包装边缘清晰。画面适合详情页展示，产品之间距离合理，不要堆太多配件，不要生成不存在的认证标识、二维码或错误品牌文字。
+```
+
+礼盒图最怕 AI 自动生成不存在的认证、二维码和品牌文案，所以要明确“不生成不存在的认证标识、二维码或错误品牌文字”。
+
+## 6. 小红书香水封面 Prompt
+
+适合：小红书笔记封面、种草内容、香评图。
+
+```text
+生成一张 3:4 小红书风格香水封面图，主体是一瓶[玫瑰调香水]，放在米白色桌面上，旁边有玫瑰花瓣、丝带和一本翻开的浅色杂志。光线柔和温暖，画面干净、浪漫、有生活感，右上角留出标题空间但不要生成文字。瓶身标签朝前，玻璃质感真实，花瓣不要遮住瓶身，整体适合“香水推荐/通勤香/约会香”主题。
+```
+
+小红书封面建议让 AI 留白，不要让 AI 直接写标题。标题后期排版更可控。
+
+## 7. 独立站 Hero 香水图 Prompt
+
+适合：官网首屏、落地页、品牌介绍。
+
+```text
+生成一张 16:9 独立站首屏香水产品图，主体是[香水瓶]，放在画面右侧三分之一位置，左侧保留大面积干净留白用于后期排版。背景为[浅米色/雾灰/淡粉]高级渐变，台面有自然接触阴影和轻微反射。光线干净、商业化、真实，瓶身轮廓清楚，标签朝前。不要在图中生成标题、按钮、价格或任何文字。
+```
+
+独立站 Hero 图的关键是“留白”。不要让画面塞满道具，否则后期放标题、按钮和卖点会很困难。
+
+## 8. 香水 ASMR 视频 Prompt
+
+适合：Seedance、短视频、开箱、测评、商品展示。
 
 ```text
 生成一段 9:16 竖版 10-15 秒香水 ASMR 产品视频。镜头 1：双手把[香水礼盒]轻放在大理石台面上，暖金色光线，轻微包装摩擦声。镜头 2：慢慢打开礼盒，香水瓶出现，玻璃反光清楚。镜头 3：微距展示瓶盖、喷头和标签，手指轻触瓶身，有轻微 tapping 声。镜头 4：取下瓶盖，喷出一层细雾，逆光中可见喷雾颗粒。镜头 5：香水瓶和礼盒居中 hero shot，背景虚化，整体高级、真实、干净。保持瓶身比例、标签位置和瓶盖形状一致，不要变形手指、随机文字、水印或多余产品。
 ```
 
-更多模板见 GitHub：
+视频 Prompt 要拆镜头。不要只写“一段高级香水视频”，要写每个镜头展示什么、如何转场、哪些细节不能变。
+
+## 通用负向提示词
+
+做香水商品图、护肤品商品图和美妆电商图时，可以把这段加在 Prompt 末尾：
+
+```text
+不要生成随机品牌 logo、乱码文字、错误标签、二维码、水印、变形瓶身、弯曲瓶盖、过度反光、塑料假质感、脏乱背景、手部遮挡产品主体。
+```
+
+## 常见问题 FAQ
+
+### 1. 香水商品图 AI 提示词一定要写品牌名吗？
+
+不一定。如果你没有授权品牌素材，不建议让 AI 生成真实品牌 Logo。更稳妥的做法是上传自己的参考图，并要求保持参考图中的瓶身、标签和 Logo 位置不变。
+
+### 2. AI 生成商品图时，为什么标签经常乱码？
+
+大多数图片模型对文字渲染仍然不稳定。商品图里如果需要准确中文、英文品牌名、价格或卖点，建议先让 AI 生成无文字图片，再用设计工具后期排版。
+
+### 3. 白底图和广告图的提示词有什么区别？
+
+白底图强调产品完整、背景干净、标签清楚、无多余道具；广告图可以加入香调成分、花瓣、冰块、礼盒和留白，但仍然要保证产品是主体。
+
+### 4. 护肤品商品图和香水商品图可以用同一套 Prompt 吗？
+
+可以共用结构，但护肤品更强调“清爽、保湿、水感、肤感”，香水更强调“玻璃、折射、香调、礼盒、情绪”。最好根据产品类型替换材质、场景和道具。
+
+### 5. 如果我想批量做商品图，应该怎么整理 Prompt？
+
+建议按用途建立表格：白底主图、详情页、成分图、小红书封面、独立站 Hero、短视频。每一类保留一个稳定模板，只替换产品名、瓶型、颜色、材质和道具。
+
+## 资源链接
+
+完整资源库：
 
 ```text
 https://github.com/aithink001/ai-perfume-product-photography-prompts
 ```
+
+SEO 图文页：
+
+```text
+https://aithink001.github.io/ai-perfume-product-photography-prompts/
+```
+
+更多 AI 图片和视频提示词：
+
+```text
+https://lemgen.org
+```
+
+## 发布前 on-page SEO 检查
+
+- 标题包含“香水商品图 AI 提示词”和“护肤品商品图 Prompt”。
+- 首段自然出现主关键词。
+- 正文 H2 覆盖白底图、透明玻璃瓶、护肤喷雾、小红书封面、独立站 Hero、ASMR 视频等长尾词。
+- 至少 6 张图，每张图都有描述性 alt 文案。
+- GitHub 资源库、SEO 图文页和 LemGen 入口都已放入正文。
+- FAQ 覆盖用户真实问题，方便搜索引擎理解页面主题。
