@@ -1,0 +1,16 @@
+.DS_Store
+node_modules/
+.tmp/
+*.log
+.env
+.env.local
+.env.development
+.env.production
+dist/
+build/
+*.tgz
+data/local.db
+.output/
+.nitro/
+src/paraglide/
+src/routeTree.gen.ts
