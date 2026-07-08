@@ -49,7 +49,7 @@ AI Perfume Product Photography Prompts
 - White background product image prompts.
 - Xiaohongshu/social cover prompt direction.
 - Seedance ASMR product video prompt.
-- Chinese CSDN article draft for distribution.
+- Chinese CSDN article draft with LemGen CDN images, plus a local-upload fallback.
 - Structured JSON for reuse in tools and content workflows.
 
 ## Start Here
@@ -58,6 +58,7 @@ AI Perfume Product Photography Prompts
 - [Chinese prompt pack](prompts/zh/perfume-product-photography.md)
 - [Structured prompt data](data/prompts.zh.json)
 - [CSDN article draft](docs/csdn-article.md)
+- [CSDN image links](docs/csdn-image-links.md)
 - [SEO TDH notes](docs/seo-tdh.md)
 - [GitHub Pages SEO page](docs/index.html)
 
