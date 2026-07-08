@@ -6,6 +6,10 @@
 
 ![香水商品图 AI 提示词封面](assets/images/perfume-product-photography-og-1783494825388.png)
 
+SEO 页面：
+
+https://aithink001.github.io/ai-perfume-product-photography-prompts/
+
 ## SEO TDH
 
 Title:
@@ -28,9 +32,13 @@ H1:
 
 ## 图片示例
 
-| 香水产品摄影封面 | 香水白底电商主图 |
-| --- | --- |
-| ![AI 香水商品图提示词封面：玻璃香水瓶和玫瑰花瓣](assets/images/perfume-product-photography-og-1783494825388.png) | ![AI 香水白底商品图提示词示例：透明玻璃香水瓶](assets/images/ai-perfume-white-background-product-image-1783494862288.png) |
+| 封面 | 白底主图 | 护肤精华瓶 | 香水礼盒 |
+| --- | --- | --- | --- |
+| ![AI 香水商品图提示词封面：玻璃香水瓶和玫瑰花瓣](assets/images/perfume-product-photography-og-1783494825388.png) | ![AI 香水白底商品图提示词示例：透明玻璃香水瓶](assets/images/ai-perfume-white-background-product-image-1783494862288.png) | ![AI 护肤精华瓶商品摄影提示词示例](assets/images/ai-skincare-serum-bottle-product-photography-1783495435288.png) | ![AI 香水礼盒商品图提示词示例](assets/images/ai-perfume-gift-box-product-image-1783495444129.png) |
+
+| 小红书封面 | 香调成分平铺 | 独立站 Hero | 冰感清凉香水 |
+| --- | --- | --- | --- |
+| ![小红书香水商品图封面提示词示例](assets/images/xiaohongshu-perfume-product-cover-prompt-1783495488658.png) | ![AI 香水成分平铺图提示词示例](assets/images/ai-perfume-ingredient-flatlay-prompt-1783495536569.png) | ![AI 香水独立站 Hero 商品图提示词示例](assets/images/ai-perfume-website-hero-product-photo-1783495579738.png) | ![AI 冰感清凉香水商品图提示词示例](assets/images/ai-icy-cooling-perfume-product-photo-1783495624271.png) |
 
 ## 可复制入口
 
@@ -38,6 +46,7 @@ H1:
 - [结构化 JSON](data/prompts.zh.json)
 - [CSDN 发布稿](docs/csdn-article.md)
 - [SEO TDH 文档](docs/seo-tdh.md)
+- [GitHub Pages SEO 页面](docs/index.html)
 
 ## 适合谁用
 

@@ -10,6 +10,21 @@
 https://github.com/aithink001/ai-perfume-product-photography-prompts
 ```
 
+SEO 图文页面：
+
+```text
+https://aithink001.github.io/ai-perfume-product-photography-prompts/
+```
+
+配图可以用这几张：
+
+```text
+https://raw.githubusercontent.com/aithink001/ai-perfume-product-photography-prompts/main/assets/images/perfume-product-photography-og-1783494825388.png
+https://raw.githubusercontent.com/aithink001/ai-perfume-product-photography-prompts/main/assets/images/ai-perfume-white-background-product-image-1783494862288.png
+https://raw.githubusercontent.com/aithink001/ai-perfume-product-photography-prompts/main/assets/images/ai-skincare-serum-bottle-product-photography-1783495435288.png
+https://raw.githubusercontent.com/aithink001/ai-perfume-product-photography-prompts/main/assets/images/ai-perfume-gift-box-product-image-1783495444129.png
+```
+
 在线查看更多 AI 图片和视频提示词：
 
 ```text

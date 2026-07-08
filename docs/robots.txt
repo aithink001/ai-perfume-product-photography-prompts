@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aithink001.github.io/ai-perfume-product-photography-prompts/sitemap.xml

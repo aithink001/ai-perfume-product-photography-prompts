@@ -8,6 +8,10 @@ This repository is built as a standalone SEO/GEO asset: clear title, description
 
 ![AI perfume product photography prompt cover with glass perfume bottle and rose petals](assets/images/perfume-product-photography-og-1783494825388.png)
 
+Live SEO page:
+
+https://aithink001.github.io/ai-perfume-product-photography-prompts/
+
 ## SEO TDH
 
 Title:
@@ -30,9 +34,13 @@ AI Perfume Product Photography Prompts
 
 ## Image Examples
 
-| Perfume product photography cover | White background product image |
-| --- | --- |
-| ![AI perfume product photography prompt cover with glass perfume bottle and rose petals](assets/images/perfume-product-photography-og-1783494825388.png) | ![AI perfume white background ecommerce product image prompt example](assets/images/ai-perfume-white-background-product-image-1783494862288.png) |
+| Cover | White background | Skincare bottle | Gift box |
+| --- | --- | --- | --- |
+| ![AI perfume product photography prompt cover with glass perfume bottle and rose petals](assets/images/perfume-product-photography-og-1783494825388.png) | ![AI perfume white background ecommerce product image prompt example](assets/images/ai-perfume-white-background-product-image-1783494862288.png) | ![AI skincare serum bottle product photography prompt example](assets/images/ai-skincare-serum-bottle-product-photography-1783495435288.png) | ![AI perfume gift box ecommerce product image prompt example](assets/images/ai-perfume-gift-box-product-image-1783495444129.png) |
+
+| Xiaohongshu cover | Ingredient flatlay | Website hero | Icy cooling perfume |
+| --- | --- | --- | --- |
+| ![Xiaohongshu perfume product cover prompt example](assets/images/xiaohongshu-perfume-product-cover-prompt-1783495488658.png) | ![AI perfume ingredient flatlay prompt with fragrance notes](assets/images/ai-perfume-ingredient-flatlay-prompt-1783495536569.png) | ![AI perfume website hero product photo prompt example](assets/images/ai-perfume-website-hero-product-photo-1783495579738.png) | ![AI icy cooling perfume product photography prompt example](assets/images/ai-icy-cooling-perfume-product-photo-1783495624271.png) |
 
 ## What You Get
 
@@ -51,6 +59,7 @@ AI Perfume Product Photography Prompts
 - [Structured prompt data](data/prompts.zh.json)
 - [CSDN article draft](docs/csdn-article.md)
 - [SEO TDH notes](docs/seo-tdh.md)
+- [GitHub Pages SEO page](docs/index.html)
 
 ## Copy This Prompt First
 

@@ -1,6 +1,6 @@
 # SEO TDH
 
-## GitHub Repository TDH
+## GitHub Pages TDH
 
 Title:
 
@@ -18,6 +18,12 @@ H1:
 
 ```text
 AI Perfume Product Photography Prompts
+```
+
+Canonical:
+
+```text
+https://aithink001.github.io/ai-perfume-product-photography-prompts/
 ```
 
 Primary keywords:
@@ -63,11 +69,23 @@ Recommended image filenames:
 
 - `perfume-product-photography-og-*.png`
 - `ai-perfume-white-background-product-image-*.png`
+- `ai-skincare-serum-bottle-product-photography-*.png`
+- `ai-perfume-gift-box-product-image-*.png`
+- `xiaohongshu-perfume-product-cover-prompt-*.png`
+- `ai-perfume-ingredient-flatlay-prompt-*.png`
+- `ai-perfume-website-hero-product-photo-*.png`
+- `ai-icy-cooling-perfume-product-photo-*.png`
 
 Recommended alt text:
 
 - `AI perfume product photography prompt cover with glass perfume bottle and rose petals`
 - `AI perfume white background ecommerce product image prompt example`
+- `AI skincare serum bottle product photography prompt example`
+- `AI perfume gift box ecommerce product image prompt example`
+- `Xiaohongshu perfume product cover prompt example`
+- `AI perfume ingredient flatlay prompt with fragrance notes`
+- `AI perfume website hero product photo prompt example`
+- `AI icy cooling perfume product photography prompt example`
 
 ## Internal Link Plan
 
