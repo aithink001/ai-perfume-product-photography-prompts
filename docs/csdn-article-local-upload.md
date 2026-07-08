@@ -1,15 +1,15 @@
-# CSDN 发布稿：香水/护肤品商品图 AI 提示词
+# CSDN 本地上传版：香水/护肤品商品图 AI 提示词
 
-注意：CSDN 经常无法转存 GitHub raw 外链图片。正式发布建议使用本地上传版：
+这份是 CSDN 专用发布稿。不要直接粘贴 GitHub raw 图片链接；CSDN 容易出现“图片转存失败”。发布时用工具栏上传本地图片，图片文件在：
 
 ```text
-docs/csdn-article-local-upload.md
+/Users/aishu/cloudflare/ai-perfume-product-photography-prompts/docs/csdn-upload-images/
 ```
 
-图片文件夹：
+图片压缩包：
 
 ```text
-docs/csdn-upload-images/
+/Users/aishu/cloudflare/ai-perfume-product-photography-prompts/docs/csdn-upload-images.zip
 ```
 
 ## 发布设置
@@ -32,34 +32,16 @@ docs/csdn-upload-images/
 AI提示词, Prompt, AI商品图, 电商主图, 香水商品图, 护肤品, AI绘画, 商品摄影
 ```
 
-分类建议：
+封面图上传：
 
 ```text
-人工智能 / AIGC / Prompt Engineering
+docs/csdn-upload-images/perfume-product-photography-og-1783494825388.png
 ```
 
-封面图：
+封面图 alt：
 
 ```text
-https://raw.githubusercontent.com/aithink001/ai-perfume-product-photography-prompts/main/assets/images/perfume-product-photography-og-1783494825388.png
-```
-
-建议 URL slug：
-
-```text
-ai-perfume-product-photography-prompts
-```
-
-主关键词：
-
-```text
-香水商品图 AI 提示词
-```
-
-辅助关键词：
-
-```text
-护肤品商品图 Prompt、美妆电商图 AI 提示词、香水瓶产品摄影提示词、AI 商品图提示词
+香水商品图 AI 提示词封面：玻璃香水瓶、玫瑰花瓣、高级产品摄影
 ```
 
 ## 正文
@@ -70,7 +52,12 @@ ai-perfume-product-photography-prompts
 
 商品图不是氛围图。它最重要的是产品是否准确、瓶身是否完整、标签是否清楚、光线是否能表现材质。尤其是香水瓶、精华瓶、喷雾瓶这类透明或半透明产品，提示词如果不够具体，很容易出现玻璃瓶变形、标签乱码、瓶盖错误、道具抢主体的问题。
 
-![香水商品图 AI 提示词封面：玻璃香水瓶、玫瑰花瓣、高级产品摄影](https://raw.githubusercontent.com/aithink001/ai-perfume-product-photography-prompts/main/assets/images/perfume-product-photography-og-1783494825388.png)
+【上传图片 1：封面图】
+
+```text
+文件：docs/csdn-upload-images/perfume-product-photography-og-1783494825388.png
+alt：香水商品图 AI 提示词封面：玻璃香水瓶、玫瑰花瓣、高级产品摄影
+```
 
 我把香水和护肤品商品图拆成 18 个具体场景，每个模板都可以直接复制，再把方括号里的变量替换成自己的产品。
 
@@ -127,19 +114,54 @@ https://lemgen.org
 
 下面这些图对应不同的商品图需求：白底主图、护肤精华瓶、礼盒详情页、小红书封面、香调成分图、独立站 Hero、冰感清凉广告图。
 
-![AI 香水白底商品图提示词示例：透明玻璃香水瓶，适合电商主图](https://raw.githubusercontent.com/aithink001/ai-perfume-product-photography-prompts/main/assets/images/ai-perfume-white-background-product-image-1783494862288.png)
+【上传图片 2：白底主图】
 
-![AI 护肤精华瓶商品摄影提示词示例：透明玻璃滴管瓶，高级棚拍](https://raw.githubusercontent.com/aithink001/ai-perfume-product-photography-prompts/main/assets/images/ai-skincare-serum-bottle-product-photography-1783495435288.png)
+```text
+文件：docs/csdn-upload-images/ai-perfume-white-background-product-image-1783494862288.png
+alt：AI 香水白底商品图提示词示例：透明玻璃香水瓶，适合电商主图
+```
 
-![AI 香水礼盒商品图提示词示例：香水瓶和包装盒，适合详情页](https://raw.githubusercontent.com/aithink001/ai-perfume-product-photography-prompts/main/assets/images/ai-perfume-gift-box-product-image-1783495444129.png)
+【上传图片 3：护肤精华瓶】
 
-![小红书香水商品图封面提示词示例：玫瑰香水、梳妆台、种草封面](https://raw.githubusercontent.com/aithink001/ai-perfume-product-photography-prompts/main/assets/images/xiaohongshu-perfume-product-cover-prompt-1783495488658.png)
+```text
+文件：docs/csdn-upload-images/ai-skincare-serum-bottle-product-photography-1783495435288.png
+alt：AI 护肤精华瓶商品摄影提示词示例：透明玻璃滴管瓶，高级棚拍
+```
 
-![AI 香水成分平铺图提示词示例：柑橘、玫瑰、香草、檀木香调](https://raw.githubusercontent.com/aithink001/ai-perfume-product-photography-prompts/main/assets/images/ai-perfume-ingredient-flatlay-prompt-1783495536569.png)
+【上传图片 4：香水礼盒】
 
-![AI 香水独立站 Hero 商品图提示词示例：右侧产品，左侧留白](https://raw.githubusercontent.com/aithink001/ai-perfume-product-photography-prompts/main/assets/images/ai-perfume-website-hero-product-photo-1783495579738.png)
+```text
+文件：docs/csdn-upload-images/ai-perfume-gift-box-product-image-1783495444129.png
+alt：AI 香水礼盒商品图提示词示例：香水瓶和包装盒，适合详情页
+```
 
-![AI 冰感清凉香水商品图提示词示例：冰块、水珠、冷调光线](https://raw.githubusercontent.com/aithink001/ai-perfume-product-photography-prompts/main/assets/images/ai-icy-cooling-perfume-product-photo-1783495624271.png)
+【上传图片 5：小红书封面】
+
+```text
+文件：docs/csdn-upload-images/xiaohongshu-perfume-product-cover-prompt-1783495488658.png
+alt：小红书香水商品图封面提示词示例：玫瑰香水、梳妆台、种草封面
+```
+
+【上传图片 6：香调成分图】
+
+```text
+文件：docs/csdn-upload-images/ai-perfume-ingredient-flatlay-prompt-1783495536569.png
+alt：AI 香水成分平铺图提示词示例：柑橘、玫瑰、香草、檀木香调
+```
+
+【上传图片 7：独立站 Hero】
+
+```text
+文件：docs/csdn-upload-images/ai-perfume-website-hero-product-photo-1783495579738.png
+alt：AI 香水独立站 Hero 商品图提示词示例：右侧产品，左侧留白
+```
+
+【上传图片 8：冰感清凉香水】
+
+```text
+文件：docs/csdn-upload-images/ai-icy-cooling-perfume-product-photo-1783495624271.png
+alt：AI 冰感清凉香水商品图提示词示例：冰块、水珠、冷调光线
+```
 
 ## 1. 香水白底电商主图 Prompt
 
@@ -276,6 +298,7 @@ https://lemgen.org
 - 标题包含“香水商品图 AI 提示词”和“护肤品商品图 Prompt”。
 - 首段自然出现主关键词。
 - 正文 H2 覆盖白底图、透明玻璃瓶、护肤喷雾、小红书封面、独立站 Hero、ASMR 视频等长尾词。
-- 至少 6 张图，每张图都有描述性 alt 文案。
+- 图片用 CSDN 工具栏本地上传，不直接依赖 GitHub raw 或外链图。
+- 每张图上传后，在图片下方保留描述性 alt/caption。
 - GitHub 资源库、SEO 图文页和 LemGen 入口都已放入正文。
 - FAQ 覆盖用户真实问题，方便搜索引擎理解页面主题。
